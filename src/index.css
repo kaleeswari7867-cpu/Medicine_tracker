@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  }
+}
+
+@media print {
+  body {
+    background: white !important;
+    color: black !important;
+  }
+  
+  header,
+  nav,
+  .dashboard,
+  .add-section,
+  .medicine-section,
+  button,
+  input,
+  select {
+    display: none !important;
+  }
+
+  #printable-schedule {
+    display: block !important;
+    width: 100% !important;
+  }
+}

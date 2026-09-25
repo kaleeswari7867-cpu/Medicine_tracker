@@ -1,0 +1,7 @@
+{
+  "name": "Human Medicine Tracker",
+  "description": "Comprehensive medicine tracker and daily dosage schedule manager with intake logging, timing reminders, and adherence tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
