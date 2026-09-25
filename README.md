@@ -49,7 +49,7 @@ Human-Medicine-Tracker/
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/human-medicine-tracker.git
+git clone https://github.com/kaleeswari7867-cpu/Medicine_tracker
 
 2. Open the project
 
